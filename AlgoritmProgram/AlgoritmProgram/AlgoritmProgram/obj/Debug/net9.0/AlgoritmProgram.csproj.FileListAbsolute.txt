@@ -1,0 +1,14 @@
+C:\Users\moha1\source\repos\AlgoritmProgram\AlgoritmProgram\bin\Debug\net9.0\AlgoritmProgram.exe
+C:\Users\moha1\source\repos\AlgoritmProgram\AlgoritmProgram\bin\Debug\net9.0\AlgoritmProgram.deps.json
+C:\Users\moha1\source\repos\AlgoritmProgram\AlgoritmProgram\bin\Debug\net9.0\AlgoritmProgram.runtimeconfig.json
+C:\Users\moha1\source\repos\AlgoritmProgram\AlgoritmProgram\bin\Debug\net9.0\AlgoritmProgram.dll
+C:\Users\moha1\source\repos\AlgoritmProgram\AlgoritmProgram\bin\Debug\net9.0\AlgoritmProgram.pdb
+C:\Users\moha1\source\repos\AlgoritmProgram\AlgoritmProgram\obj\Debug\net9.0\AlgoritmProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moha1\source\repos\AlgoritmProgram\AlgoritmProgram\obj\Debug\net9.0\AlgoritmProgram.AssemblyInfoInputs.cache
+C:\Users\moha1\source\repos\AlgoritmProgram\AlgoritmProgram\obj\Debug\net9.0\AlgoritmProgram.AssemblyInfo.cs
+C:\Users\moha1\source\repos\AlgoritmProgram\AlgoritmProgram\obj\Debug\net9.0\AlgoritmProgram.csproj.CoreCompileInputs.cache
+C:\Users\moha1\source\repos\AlgoritmProgram\AlgoritmProgram\obj\Debug\net9.0\AlgoritmProgram.dll
+C:\Users\moha1\source\repos\AlgoritmProgram\AlgoritmProgram\obj\Debug\net9.0\refint\AlgoritmProgram.dll
+C:\Users\moha1\source\repos\AlgoritmProgram\AlgoritmProgram\obj\Debug\net9.0\AlgoritmProgram.pdb
+C:\Users\moha1\source\repos\AlgoritmProgram\AlgoritmProgram\obj\Debug\net9.0\AlgoritmProgram.genruntimeconfig.cache
+C:\Users\moha1\source\repos\AlgoritmProgram\AlgoritmProgram\obj\Debug\net9.0\ref\AlgoritmProgram.dll
